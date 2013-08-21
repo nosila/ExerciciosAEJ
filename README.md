@@ -1,14 +1,12 @@
-Exerc�cios resolvidos da cadeira Algoritmos e Estruturas de Jogos (2011-2012),
-do primeiro ano do curso Engenharia em Desenvolvimento de Jogos Digitais @ IPCA - Portugal
+Exercícios resolvidos da UC Algoritmos e Estruturas de Jogos
+=============
 
-Os exerc�cios ir�o ser todos em C. Se algu�m quiser completar esta
-reposit�rio com mais exerc�cios, sejam eles em C ou pseudo c�digo, est� � vontade!
-(caso seja em pseudo c�digo pe�o que fa�am em Portugol, para que
-seja poss�vel confirmar e testar.
+__Unidade Curricular:__ Algoritmos e Estruturas de Jogos (AED), 1º ano, 2011-2012
 
-D�vidas? Podem-me enviar um email, responderei ASAP. T�m todos os meus contactos no meu blog.
+__Curso:__  Engenharia em Desenvolvimento de Jogos Digitais @ IPCA - Portugal
 
-Sauda��es acad�micas,
+__Descrição:__ Exercícios feitos em C. Estão à vontade para adicionar exercícios ao repositório, seja em C ou pseudocódigo em Portugol.
 
-�lison Fernandes
-http://dementedvice.wordpress.com/about/
+autor
+-------
+Álison Fernandes | [DementedVice.wordpress.com/about](http://dementedvice.wordpress.com/about/)
